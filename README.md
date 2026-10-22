@@ -19,7 +19,11 @@ Python / OpenAI API / GitHub Actions / Discord Webhook / Beautiful Soup
 すべての商品をAIで評価するのではなく、Pythonで候補を絞り込んでからAI分析することで、API利用コストを抑えています。
 
 ## 実際の動作画面
-※Discord通知画面を後から掲載予定
+### AI評価レポートのサンプル
+
+![中古ノートPC AI評価レポート](https://raw.githubusercontent.com/yousukem0210-bit/yahoo-bot-portfolio/main/%E4%B8%AD%E5%8F%A4%E3%83%8E%E3%83%BC%E3%83%88PC%20AI%E8%A9%95%E4%BE%A1%E3%83%AC%E3%83%9B%E3%82%9A%E3%83%BC%E3%83%88.png)
+
+※Discord通知画面は後から掲載予定
 
 ## 開発について
 ChatGPTを活用しながら、設計・実装・テスト・改善を進めました。
